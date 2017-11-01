@@ -1,7 +1,7 @@
 RecyclerViewSample
 ===================================
 
-A sample that demonstrates to use RecyclerView in your app
+A sample that demonstrates to use RecyclerView in your app.  
 
 Screenshots
 -------------
